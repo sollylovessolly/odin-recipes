@@ -1,0 +1,1 @@
+i decided to start learning web dev all over again, as i feel there are gaps in my knowledge, i didn't learn it the right way, i've decided to learn it the right way, and here is my first project- a recipe site
